@@ -1,0 +1,26 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.main-title,
+.main-heading {
+  font-weight: bold;
+}
+
+.form-class {
+  min-height: 50vh;
+  background-image: url("./images/4853433.jpg");
+  object-fit: cover;
+}
+.text-right {
+  text-align: left;
+}
+
+.main-content {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.margin {
+  margin-bottom: 5rem;
+}
